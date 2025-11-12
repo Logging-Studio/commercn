@@ -1,7 +1,6 @@
 import { Button } from "@/components/retroui/Button";
 import Link from "next/link";
 
-
 export default function HomePage() {
   return (
     <main className="px-4 lg:px-12 max-w-8xl h-[calc(100vh-116px)] w-full mx-auto flex w-full justify-between items-center">
@@ -22,7 +21,7 @@ export default function HomePage() {
             </Button>
 
              <Button variant="outline" asChild>
-              <Link href="https://github.com/Logging-Studio/commercn">Star on GitHub</Link>
+              <Link href="https://github.com/Logging-Studio/commercn" target="_blank">Star on GitHub</Link>
             </Button>
           </div>
         </div>

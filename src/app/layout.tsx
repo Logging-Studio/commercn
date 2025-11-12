@@ -9,7 +9,7 @@ const geist = Syne({
 });
 
 export const metadata = {
-    title: 'Commercn | Shadcn Ecommerce Blocks',
+    title: 'CommerCN | Shadcn Ecommerce UI Blocks',
     description: 'Shadcn UI blocks for e-commerce websites. Built with React, Next.js, and Tailwind CSS.',
     keywords: ['Commercn', 'Shadcn UI', 'Shadcn E-commerce'],
     icons: {
