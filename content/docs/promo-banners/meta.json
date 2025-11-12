@@ -1,8 +1,4 @@
 {
-  "title": "Promo Banners",
-  "pages": [
-    "promo-banner-01",
-    "promo-banner-02",
-    "promo-banner-03"
-  ]
+	"title": "Promo Banners",
+	"pages": ["promo-banner-01", "promo-banner-02", "promo-banner-03"]
 }
